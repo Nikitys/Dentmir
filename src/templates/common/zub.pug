@@ -1,0 +1,22 @@
+.zub-main
+    .container
+        .zub-main-left
+            .zub-main-left--mob
+                .zub-main-right__title Рассчитайте стоимость своего лечения до визита в клинику
+                .zub-main-right-item
+                    img(src="assets/images/icons/zub-big.svg",alt="").zub-main-right-item__img
+                    .zub-main-right-item__text Выберите проблемные зубы на фото и заполните форму заявки
+            .zub-main-left__img
+                include tooth
+        .zub-main-right
+            .zub-main-right__title Рассчитайте стоимость своего лечения до визита в клинику
+            .zub-main-right-item
+                img(src="assets/images/icons/zub-big.svg",alt="").zub-main-right-item__img
+                .zub-main-right-item__text Выберите проблемные зубы на фото и заполните форму заявки
+            form(action="").zub-main-right-form
+                input(type="text", placeholder="Как к Вам обращаться?").zub-main-right-form__input
+                input(type="text", placeholder="Ваш номер телефона").zub-main-right-form__input.form-phone
+                .zub-main-right-form-zubs
+                    span.zub-main-right-form-zubs__title Выбранные зубы: &nbsp;
+                    span.zub-main-right-form-zubs__text
+                input(type="submit", value="Рассчитать стоимость").zub-main-right-form__submit

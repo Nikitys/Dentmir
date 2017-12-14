@@ -1,0 +1,24 @@
+.slider
+    .slider-right-bg
+    .container.clearfix
+        .slider-left
+            .slider-left-carousel
+                - for (var i = 0; i<3; i++){
+                    .slider-left-item
+                        .slider-left-item-inn
+                            .slider-left-item-inn-img
+                                .pulse
+                                .slider-left-item-inn-img-block
+                                    img(src="assets/images/icons/anim1.svg")
+                                    .slider-left-item-inn-img-block__text Акция
+                            .slider-left__title Импланты Straumann
+                            .slider-left__price от 32 900 руб. <span>43 900 руб.</span>
+                - }
+        .slider-right
+            .slider-right__title Узнайте как съэкономить 11 000 руб. при установке импланта премиум класса
+            .slider-right__title1 Оставьте заявку и узнайте о всех скидках и акциях на имплантацию в нашей клинике
+            form.main-right-form
+                input(type="text", placeholder="Ваш номер телефона").main-right-form__input.form-phone
+                input(type="submit", value="Записаться").main-right-form__submit
+            .slider-right-fot Или звоните прямо сейчас +7 (812) 550-00-22 и получите бесплатную консультацию!
+

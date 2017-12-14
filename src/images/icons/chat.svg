@@ -1,0 +1,32 @@
+<svg width="20" height="20" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>chat</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(82 -2989)">
+<g id="chat">
+<g id="Group">
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(-82 2989)" fill="#497393"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(-76.578 2998)" fill="#497393"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(-76.25 2993)" fill="#497393"/>
+</g>
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="translate(-70.25 2993)" fill="#497393"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 18 0L 2.00001 0C 0.896015 0 0 0.896015 0 2.00001L 0 14C 0 15.103 0.896015 16 2.00001 16L 4.00003 16L 4.00003 20L 9.33402 16L 18 16C 19.104 16 20 15.103 20 14L 20 2.00001C 20 0.896015 19.104 0 18 0ZM 18 14L 8.66601 14L 6 16L 6 14L 2.00001 14L 2.00001 1.99997L 18 1.99997L 18 14Z"/>
+<path id="path1_fill" d="M 4.578 3C 6.62798 3 8.38401 1.764 9.15599 0L -6.00814e-08 0C 0.772031 1.764 2.52801 3 4.578 3Z"/>
+<path id="path2_fill" d="M 1.25001 2.50003C 1.94038 2.50003 2.50003 1.94038 2.50003 1.25001C 2.50003 0.559651 1.94038 0 1.25001 0C 0.55965 0 0 0.559651 0 1.25001C 0 1.94038 0.55965 2.50003 1.25001 2.50003Z"/>
+<path id="path3_fill" d="M 1.25002 2.50003C 1.94038 2.50003 2.50003 1.94038 2.50003 1.25001C 2.50003 0.559651 1.94038 0 1.25002 0C 0.559651 0 0 0.559651 0 1.25001C 0 1.94038 0.559651 2.50003 1.25002 2.50003Z"/>
+</defs>
+</svg>

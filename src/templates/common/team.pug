@@ -1,0 +1,10 @@
+.team
+    .container
+        .team__title Опытные стоматологи помогут Вам <br> обрести сияющую улыбку
+        ul.team-list
+            - for (var i = 0; i < 6; i++){
+                li.team-item
+                    .team-item__img(style="background:url('assets/images/reviews.jpg')center center no-repeat")
+                    .team-item__title Василий Алибабаевич
+                    .team-item__text Хирург–ортодонт 6 лет опыта
+            - }
